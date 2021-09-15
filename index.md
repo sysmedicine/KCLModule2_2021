@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## Microbiome KCL 2021
 
-You can use the [editor on GitHub](https://github.com/sysmedicine/KCLModule2_2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### R and R Studio Installation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you don't have R and Rstudio installed, you can follow the steps from [this link](https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/)
 
-### Markdown
+Credit: UTA Austin EDX team
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Course Materials
+Here you can find all the materials for the lecture and workshops.
 
-```markdown
-Syntax highlighted code block
+| Description| Date | Time| Files|
+|:-|:-|:-|:-|
+| **7NNNMHD2: Introduction to programming and coding**| 28/09/2020| 10:00-11:00 | [Slides](https://github.com/muharif/MicrobiomeKCL2020/raw/master/BasicProgramming%20and%20Intro%20to%20R%20(KCL).pptx) -- [R File](https://github.com/muharif/MicrobiomeKCL2020/raw/master/ExampleCodesFromLecture.R) |
+| **7NNNMHD2: Introduction to data analysis with R**| 28/09/2020| 12:00-17:00 | [R File](https://raw.githubusercontent.com/muharif/MicrobiomeKCL2020/master/Workshops/day1_basicR.R) -- [R File + Answers](https://raw.githubusercontent.com/muharif/MicrobiomeKCL2020/master/Workshops/day1_basicR_answered.R)|
+| **7NNNMHD2: Introduction to data analysis with R**| 29/09/2020| 12:00-17:00 | [R File](https://raw.githubusercontent.com/muharif/MicrobiomeKCL2020/master/Workshops/day2_datamanipulation.R) -- [Data1](https://raw.githubusercontent.com/muharif/MicrobiomeKCL2020/master/Workshops/Data/DATA_SET_REFERENCE_1.csv) -- [Data2](https://github.com/muharif/MicrobiomeKCL2020/blob/master/Workshops/Data/DATA_SET_REFERENCE_2.csv) -- [R File + Answers](https://raw.githubusercontent.com/muharif/MicrobiomeKCL2020/master/Workshops/day2_datamanipulation_answered.R) |
+| **7NNNMHD2: Introduction to data analysis with R**| 30/09/2020| 12:00-17:00 | [R File](https://raw.githubusercontent.com/muharif/MicrobiomeKCL2020/master/Workshops/day3_statisticalAnalysis.R) -- [Data2](https://raw.githubusercontent.com/muharif/MicrobiomeKCL2020/master/Workshops/Data/DATA_SET_REFERENCE_2.csv) -- [Data3](https://github.com/muharif/MicrobiomeKCL2020/blob/master/Workshops/Data/DATA_SET_REFERENCE_3.csv) -- [Data4](https://github.com/muharif/MicrobiomeKCL2020/blob/master/Workshops/Data/DATA_SET_REFERENCE_4_A.csv) |
 
-# Header 1
-## Header 2
-### Header 3
+## 7NNNMHD2: Introduction to Linux
 
-- Bulleted
-- List
+### Course Materials
+Here you can find all the materials for the lecture and workshops.
 
-1. Numbered
-2. List
+| Description| Date | Time| Files|
+|:-|:-|:-|:-|
+| **7NNNMHD2: Introduction to Linux**| 06/10/2020| 12:00-17:00 | [Slide](https://github.com/muharif/MicrobiomeKCL2020/raw/master/IntroToLinux.pptx)|
+| **7NNNMHD2: Introduction to Linux**| 07/10/2020| 12:00-17:00 | [Slide](https://github.com/muharif/MicrobiomeKCL2020/raw/master/IntroToLinux_Day2.pptx)|
 
-**Bold** and _Italic_ and `Code` text
+## 7NNNMHD2: Statistical Analysis
 
-[Link](url) and ![Image](src)
-```
+### Course Materials
+Here you can find all the materials from my part.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+| Description| Date | Time| Files|
+|:-|:-|:-|:-|
+| **Probability and Statistical Inference**| 13/10/2020| 13:00-15:00 | [Slide](https://github.com/muharif/MicrobiomeKCL2020/raw/master/Probability.pptx)|
 
-### Jekyll Themes
+### Important Links
+[WEbminal](https://www.webminal.org/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sysmedicine/KCLModule2_2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Generate SSH Key (Windows 10)](https://phoenixnap.com/kb/generate-ssh-key-windows-10)
 
-### Support or Contact
+[Generate SSH Key (MacOS)](https://secure.vexxhost.com/billing/index.php/knowledgebase/171/How-can-I-generate-SSH-keys-on-Mac-OS-X.html)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[MobaXterm](https://mobaxterm.mobatek.net/)
+
+[Putty](https://www.putty.org/)
+
+[FileZilla](https://filezilla-project.org/download.php?type=client)
+
+[Rosalind Help Page](https://rosalind.kcl.ac.uk/)
+
