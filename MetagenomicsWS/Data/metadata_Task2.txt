@@ -1,0 +1,11 @@
+SampleID	Gender
+s1	M
+s2	M
+s3	M
+s4	M
+s5	M
+s6	F
+s7	F
+s8	F
+s9	F
+s10	F
