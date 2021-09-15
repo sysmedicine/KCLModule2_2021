@@ -1,13 +1,3 @@
-#########################Set the path and working environement########################
-path='~/Learning/00_ongoing/00-ResearchProjects/Teaching/Course/workshop_diversity'
-setwd("~/Learning/00_ongoing/00-ResearchProjects/Teaching/Course/workshop_diversity")
-
-########################install mutiple packages at once##############################
-list.of.packages <- c("ggplot2", "tidyverse", "reshape2","wesanderson","gplots","ggpubr",
-                      "readxl","phyloseq","microbiome","dplyr","vegan","tibble")
-new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
-if(length(new.packages)) install.packages(new.packages)
-
 ####Load Day2 Data#####
 load('Results/Day2_Part2.Rdata')
 
