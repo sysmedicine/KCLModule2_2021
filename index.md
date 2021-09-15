@@ -8,6 +8,25 @@ In the majority of this module, we will use a language called R as our main prog
 
 Credit: UTA Austin EDX team
 
+### Adding GitHub Repository to RStudio Cloud
+
+For both options, you can add directly the GitHub Repository of the course to the RStudio.
+
+#### RStudio Cloud
+
+After logging in to your account:
+1. Select the KCL Module 2 workspace on the left panel
+2. Click on "New Project"
+3. Click on "New Project from Git Repository" and paste this link to the text box 
+
+![](https://github.com/sysmedicine/KCLModule2_2021/raw/gh-pages/img/add_project.png)
+
+
+#### Own RStudio
+
+Follow this [this link](https://cfss.uchicago.edu/setup/git-with-rstudio/)
+
+
 ### Course Materials
 Here you can find all the materials for the lecture and workshops.
 
