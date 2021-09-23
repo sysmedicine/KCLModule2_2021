@@ -3,7 +3,7 @@
 ### R and RStudio Preparation (Please do it before the lecture)
 
 In the majority of this module, we will use a language called R as our main programming language. There are 2 ways of accessing R:
-1. (Easy Way) Using Rstudio Cloud: Register yourself for the free account on https://rstudio.cloud. I will invite you to this project course in the beginning of the first workshop.
+1. (Easy Way) Using Rstudio Cloud: Register yourself for the free account on [https://rstudio.cloud](https://rstudio.cloud). I will invite you to this project course in the beginning of the first workshop.
 2. Using your own RStudio: To be able to do that, you can follow the steps from [this link](https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/). There might be complication in installing several packages for different OS. If that happen, please use the Rstudio Cloud option
 
 Credit: UTA Austin EDX team
