@@ -314,7 +314,13 @@ text_wrapper('Start and close with percent','%') == '%Start and close with perce
 count_numbers <- function(sentence){
   #WRITE YOUR CODE HERE
   #hint: use as.numeric function from R. Split strings and iterate.
-  
+  #You'll see some WARNING, but ignore it. WARNING is fine, but ERROR is not fine.
+  result = 0
+  for(word in strsplit(sentence, ' ')[[1]]){
+    if(is.na(as.numeric(word)) == FALSE) {
+      result = result+1
+    }
+  }
   
   return(result)
 }
