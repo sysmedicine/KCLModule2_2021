@@ -1,0 +1,49 @@
+#mpa_v30_CHOCOPhlAn_201901
+#/home/oaltay/.pyenv/versions/3.7.0/bin/metaphlan /proj/sllstore2017024/ozlem/KCL_SMOKE/SRR9657801_1.fastq.gz --bowtie2out /proj/sllstore2017024/ozlem/KCL_SMOKE/SRR9657801.bowtie2.bz2 --input_type fastq -t rel_ab_w_read_stats
+#SampleID	Metaphlan_Analysis
+#estimated_reads_mapped_to_known_clades:54966
+#clade_name	clade_taxid	relative_abundance	coverage	estimated_number_of_reads_from_the_clade
+k__Bacteria	2	100.0	0.01161	29839
+k__Bacteria|p__Firmicutes	2|1239	50.89819	0.00591	12030
+k__Bacteria|p__Bacteroidetes	2|976	45.99383	0.00534	17051
+k__Bacteria|p__Actinobacteria	2|201174	2.43137	0.00028	599
+k__Bacteria|p__Proteobacteria	2|1224	0.67661	8e-05	159
+k__Bacteria|p__Firmicutes|c__Negativicutes	2|1239|909932	48.97226	0.00568	11613
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia	2|976|200643	45.99383	0.00534	17051
+k__Bacteria|p__Actinobacteria|c__Actinobacteria	2|201174|1760	2.43137	0.00028	599
+k__Bacteria|p__Firmicutes|c__Bacilli	2|1239|91061	1.92593	0.00022	417
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria	2|1224|1236	0.67661	8e-05	159
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales	2|1239|909932|1843489	48.97226	0.00568	11613
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales	2|976|200643|171549	45.99383	0.00534	17051
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales	2|201174|1760|2037	2.21211	0.00026	541
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales	2|1239|91061|186826	1.92593	0.00022	417
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pasteurellales	2|1224|1236|135625	0.67661	8e-05	159
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Micrococcales	2|201174|1760|85006	0.21926	3e-05	58
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae	2|1239|909932|1843489|31977	48.97226	0.00568	11613
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae	2|976|200643|171549|171552	45.99383	0.00534	17051
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Actinomycetaceae	2|201174|1760|2037|2049	2.21211	0.00026	541
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae	2|1239|91061|186826|1300	1.92593	0.00022	417
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pasteurellales|f__Pasteurellaceae	2|1224|1236|135625|712	0.67661	8e-05	159
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Micrococcales|f__Micrococcaceae	2|201174|1760|85006|1268	0.21926	3e-05	58
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella	2|976|200643|171549|171552|838	45.99383	0.00534	17051
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella	2|1239|909932|1843489|31977|29465	43.81351	0.00509	10556
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Megasphaera	2|1239|909932|1843489|31977|906	5.15875	0.0006	1057
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Actinomycetaceae|g__Actinomyces	2|201174|1760|2037|2049|1654	2.21211	0.00026	541
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus	2|1239|91061|186826|1300|1301	1.92593	0.00022	417
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pasteurellales|f__Pasteurellaceae|g__Haemophilus	2|1224|1236|135625|712|724	0.67661	8e-05	159
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Micrococcales|f__Micrococcaceae|g__Rothia	2|201174|1760|85006|1268|32207	0.21926	3e-05	58
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_atypica	2|1239|909932|1843489|31977|29465|39777	23.45287	0.00272	5640
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_dispar	2|1239|909932|1843489|31977|29465|39778	18.59778	0.00216	4494
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_melaninogenica	2|976|200643|171549|171552|838|28132	18.18866	0.00211	6653
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_histicola	2|976|200643|171549|171552|838|470565	13.35434	0.00155	4691
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_salivae	2|976|200643|171549|171552|838|228604	6.81778	0.00079	2522
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_jejuni	2|976|200643|171549|171552|838|1177574	5.77676	0.00067	2534
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Megasphaera|s__Megasphaera_micronuciformis	2|1239|909932|1843489|31977|906|187326	5.15875	0.0006	1057
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Actinomycetaceae|g__Actinomyces|s__Actinomyces_graevenitzii	2|201174|1760|2037|2049|1654|55565	2.21211	0.00026	541
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus|s__Streptococcus_infantis	2|1239|91061|186826|1300|1301|68892	1.92593	0.00022	417
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_infantium	2|1239|909932|1843489|31977|29465|1911679	1.07195	0.00012	251
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_pallens	2|976|200643|171549|171552|838|60133	0.9759	0.00011	350
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_sp_oral_taxon_306	2|976|200643|171549|171552|838|712461	0.88039	0.0001	301
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_parvula	2|1239|909932|1843489|31977|29465|29466	0.69091	8e-05	171
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pasteurellales|f__Pasteurellaceae|g__Haemophilus|s__Haemophilus_sp_HMSC71H05	2|1224|1236|135625|712|724|1608898	0.67661	8e-05	159
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Micrococcales|f__Micrococcaceae|g__Rothia|s__Rothia_mucilaginosa	2|201174|1760|85006|1268|32207|43675	0.21926	3e-05	58

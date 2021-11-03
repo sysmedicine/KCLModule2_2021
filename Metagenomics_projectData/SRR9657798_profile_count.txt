@@ -1,0 +1,39 @@
+#mpa_v30_CHOCOPhlAn_201901
+#/home/oaltay/.pyenv/versions/3.7.0/bin/metaphlan /proj/sllstore2017024/ozlem/KCL_SMOKE/SRR9657798_1.fastq.gz --bowtie2out /proj/sllstore2017024/ozlem/KCL_SMOKE/SRR9657798.bowtie2.bz2 --input_type fastq -t rel_ab_w_read_stats
+#SampleID	Metaphlan_Analysis
+#estimated_reads_mapped_to_known_clades:53437
+#clade_name	clade_taxid	relative_abundance	coverage	estimated_number_of_reads_from_the_clade
+k__Bacteria	2	100.0	0.01087	27672
+k__Bacteria|p__Firmicutes	2|1239	53.17518	0.00578	11681
+k__Bacteria|p__Bacteroidetes	2|976	44.41032	0.00483	15460
+k__Bacteria|p__Actinobacteria	2|201174	2.41451	0.00026	531
+k__Bacteria|p__Firmicutes|c__Negativicutes	2|1239|909932	53.17518	0.00578	11681
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia	2|976|200643	44.41032	0.00483	15460
+k__Bacteria|p__Actinobacteria|c__Actinobacteria	2|201174|1760	2.07074	0.00023	474
+k__Bacteria|p__Actinobacteria|c__Coriobacteriia	2|201174|84998	0.34376	4e-05	57
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales	2|1239|909932|1843489	53.17518	0.00578	11681
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales	2|976|200643|171549	44.41032	0.00483	15460
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales	2|201174|1760|2037	2.07074	0.00023	474
+k__Bacteria|p__Actinobacteria|c__Coriobacteriia|o__Coriobacteriales	2|201174|84998|84999	0.34376	4e-05	57
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae	2|1239|909932|1843489|31977	53.17518	0.00578	11681
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae	2|976|200643|171549|171552	44.41032	0.00483	15460
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Actinomycetaceae	2|201174|1760|2037|2049	2.07074	0.00023	474
+k__Bacteria|p__Actinobacteria|c__Coriobacteriia|o__Coriobacteriales|f__Atopobiaceae	2|201174|84998|84999|1643824	0.34376	4e-05	57
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella	2|1239|909932|1843489|31977|29465	44.55706	0.00484	10028
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella	2|976|200643|171549|171552|838	44.41032	0.00483	15460
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Megasphaera	2|1239|909932|1843489|31977|906	8.61812	0.00094	1653
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Actinomycetaceae|g__Actinomyces	2|201174|1760|2037|2049|1654	2.07074	0.00023	474
+k__Bacteria|p__Actinobacteria|c__Coriobacteriia|o__Coriobacteriales|f__Atopobiaceae|g__Atopobium	2|201174|84998|84999|1643824|1380	0.34376	4e-05	57
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_atypica	2|1239|909932|1843489|31977|29465|39777	33.57293	0.00365	7559
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_pallens	2|976|200643|171549|171552|838|60133	11.09841	0.00121	3735
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_melaninogenica	2|976|200643|171549|171552|838|28132	10.15276	0.0011	3477
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Megasphaera|s__Megasphaera_micronuciformis	2|1239|909932|1843489|31977|906|187326	8.61812	0.00094	1653
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_salivae	2|976|200643|171549|171552|838|228604	8.02065	0.00087	2778
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_dispar	2|1239|909932|1843489|31977|29465|39778	7.79201	0.00085	1763
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_histicola	2|976|200643|171549|171552|838|470565	7.63101	0.00083	2509
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_jejuni	2|976|200643|171549|171552|838|1177574	6.16014	0.00067	2530
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Actinomycetaceae|g__Actinomyces|s__Actinomyces_graevenitzii	2|201174|1760|2037|2049|1654|55565	2.07074	0.00023	474
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_sp_T11011_6	2|1239|909932|1843489|31977|29465|2027459	1.72495	0.00019	384
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_infantium	2|1239|909932|1843489|31977|29465|1911679	1.46717	0.00016	322
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_sp_oral_taxon_306	2|976|200643|171549|171552|838|712461	1.34735	0.00015	431
+k__Bacteria|p__Actinobacteria|c__Coriobacteriia|o__Coriobacteriales|f__Atopobiaceae|g__Atopobium|s__Atopobium_parvulum	2|201174|84998|84999|1643824|1380|1382	0.34376	4e-05	57

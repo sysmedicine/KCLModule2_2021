@@ -1,0 +1,20 @@
+#mpa_v30_CHOCOPhlAn_201901
+#/home/oaltay/.pyenv/versions/3.7.0/bin/metaphlan /proj/sllstore2017024/ozlem/KCL_SMOKE/SRR9657782_1.fastq.gz --bowtie2out /proj/sllstore2017024/ozlem/KCL_SMOKE/SRR9657782.bowtie2.bz2 --input_type fastq -t rel_ab_w_read_stats
+#SampleID	Metaphlan_Analysis
+#estimated_reads_mapped_to_known_clades:24911
+#clade_name	clade_taxid	relative_abundance	coverage	estimated_number_of_reads_from_the_clade
+k__Bacteria	2	100.0	0.001	2479
+k__Bacteria|p__Proteobacteria	2|1224	79.07147	0.00079	1805
+k__Bacteria|p__Bacteroidetes	2|976	20.92853	0.00021	674
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria	2|1224|28216	79.07147	0.00079	1805
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia	2|976|200643	20.92853	0.00021	674
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Neisseriales	2|1224|28216|206351	79.07147	0.00079	1805
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales	2|976|200643|171549	20.92853	0.00021	674
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Neisseriales|f__Neisseriaceae	2|1224|28216|206351|481	79.07147	0.00079	1805
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae	2|976|200643|171549|171552	20.92853	0.00021	674
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Neisseriales|f__Neisseriaceae|g__Neisseria	2|1224|28216|206351|481|482	79.07147	0.00079	1805
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella	2|976|200643|171549|171552|838	20.92853	0.00021	674
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Neisseriales|f__Neisseriaceae|g__Neisseria|s__Neisseria_subflava	2|1224|28216|206351|481|482|28449	53.77886	0.00054	1230
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Neisseriales|f__Neisseriaceae|g__Neisseria|s__Neisseria_flavescens	2|1224|28216|206351|481|482|484	25.2926	0.00025	575
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_melaninogenica	2|976|200643|171549|171552|838|28132	16.11391	0.00016	506
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_shahii	2|976|200643|171549|171552|838|228603	4.81462	5e-05	168

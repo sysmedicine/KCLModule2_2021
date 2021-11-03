@@ -1,0 +1,51 @@
+#mpa_v30_CHOCOPhlAn_201901
+#/home/oaltay/.pyenv/versions/3.7.0/bin/metaphlan /proj/sllstore2017024/ozlem/KCL_SMOKE/SRR9657789_1.fastq.gz --bowtie2out /proj/sllstore2017024/ozlem/KCL_SMOKE/SRR9657789.bowtie2.bz2 --input_type fastq -t rel_ab_w_read_stats
+#SampleID	Metaphlan_Analysis
+#estimated_reads_mapped_to_known_clades:77378
+#clade_name	clade_taxid	relative_abundance	coverage	estimated_number_of_reads_from_the_clade
+k__Bacteria	2	100.0	0.01418	36173
+k__Bacteria|p__Bacteroidetes	2|976	40.66984	0.00577	18157
+k__Bacteria|p__Firmicutes	2|1239	34.56278	0.0049	10157
+k__Bacteria|p__Proteobacteria	2|1224	15.58526	0.00221	5035
+k__Bacteria|p__Actinobacteria	2|201174	7.43822	0.00105	2223
+k__Bacteria|p__Fusobacteria	2|32066	1.74389	0.00025	601
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia	2|976|200643	40.66984	0.00577	18157
+k__Bacteria|p__Firmicutes|c__Negativicutes	2|1239|909932	33.30136	0.00472	9744
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria	2|1224|28216	15.58526	0.00221	5035
+k__Bacteria|p__Actinobacteria|c__Actinobacteria	2|201174|1760	7.43822	0.00105	2223
+k__Bacteria|p__Fusobacteria|c__Fusobacteriia	2|32066|203490	1.74389	0.00025	601
+k__Bacteria|p__Firmicutes|c__Clostridia	2|1239|186801	1.26142	0.00018	413
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales	2|976|200643|171549	40.66984	0.00577	18157
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales	2|1239|909932|1843489	33.30136	0.00472	9744
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Neisseriales	2|1224|28216|206351	15.58526	0.00221	5035
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales	2|201174|1760|2037	7.43822	0.00105	2223
+k__Bacteria|p__Fusobacteria|c__Fusobacteriia|o__Fusobacteriales	2|32066|203490|203491	1.74389	0.00025	601
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales	2|1239|186801|186802	1.26142	0.00018	413
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae	2|976|200643|171549|171552	40.66984	0.00577	18157
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae	2|1239|909932|1843489|31977	33.30136	0.00472	9744
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Neisseriales|f__Neisseriaceae	2|1224|28216|206351|481	15.58526	0.00221	5035
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Actinomycetaceae	2|201174|1760|2037|2049	7.43822	0.00105	2223
+k__Bacteria|p__Fusobacteria|c__Fusobacteriia|o__Fusobacteriales|f__Fusobacteriaceae	2|32066|203490|203491|203492	1.74389	0.00025	601
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae	2|1239|186801|186802|186803	1.26142	0.00018	413
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella	2|976|200643|171549|171552|838	40.66984	0.00577	18157
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella	2|1239|909932|1843489|31977|29465	32.27688	0.00458	9488
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Neisseriales|f__Neisseriaceae|g__Neisseria	2|1224|28216|206351|481|482	15.58526	0.00221	5035
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Actinomycetaceae|g__Actinomyces	2|201174|1760|2037|2049|1654	7.43822	0.00105	2223
+k__Bacteria|p__Fusobacteria|c__Fusobacteriia|o__Fusobacteriales|f__Fusobacteriaceae|g__Fusobacterium	2|32066|203490|203491|203492|848	1.74389	0.00025	601
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Stomatobaculum	2|1239|186801|186802|186803|1213720	1.26142	0.00018	413
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Megasphaera	2|1239|909932|1843489|31977|906	1.02448	0.00015	256
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_atypica	2|1239|909932|1843489|31977|29465|39777	27.84947	0.00395	8182
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Neisseriales|f__Neisseriaceae|g__Neisseria|s__Neisseria_flavescens	2|1224|28216|206351|481|482|484	15.58526	0.00221	5035
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_melaninogenica	2|976|200643|171549|171552|838|28132	13.57515	0.00193	6066
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_pallens	2|976|200643|171549|171552|838|60133	11.63293	0.00165	5108
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_salivae	2|976|200643|171549|171552|838|228604	11.11501	0.00158	5023
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Actinomycetaceae|g__Actinomyces|s__Actinomyces_graevenitzii	2|201174|1760|2037|2049|1654|55565	7.43822	0.00105	2223
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_dispar	2|1239|909932|1843489|31977|29465|39778	3.19773	0.00045	944
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_sp_oral_taxon_306	2|976|200643|171549|171552|838|712461	1.95754	0.00028	817
+k__Bacteria|p__Fusobacteria|c__Fusobacteriia|o__Fusobacteriales|f__Fusobacteriaceae|g__Fusobacterium|s__Fusobacterium_periodonticum	2|32066|203490|203491|203492|848|860	1.74389	0.00025	601
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_histicola	2|976|200643|171549|171552|838|470565	1.27233	0.00018	545
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Stomatobaculum|s__Stomatobaculum_longum	2|1239|186801|186802|186803|1213720|796942	1.26142	0.00018	413
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_jejuni	2|976|200643|171549|171552|838|1177574	1.1169	0.00016	598
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Megasphaera|s__Megasphaera_micronuciformis	2|1239|909932|1843489|31977|906|187326	1.02448	0.00015	256
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_parvula	2|1239|909932|1843489|31977|29465|29466	0.65966	9e-05	199
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_infantium	2|1239|909932|1843489|31977|29465|1911679	0.57001	8e-05	163
